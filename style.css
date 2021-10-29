@@ -112,7 +112,7 @@ section{
     background-color:var(--Very-Dark-Magenta);
     display:flex;
     flex-direction: column;
-justify-content:space-between;
+    
     height:85%;
     width: 32%;
     padding: 40px 20px;
