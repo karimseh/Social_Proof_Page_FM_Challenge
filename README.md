@@ -56,7 +56,8 @@ I treid to write a clean code and to follow the html semantics.
 
 ### Continued development
 
-Responiveness needs more adjustments
+- Responiveness needs more adjustments.
+- Add background.
 
 
 ## Author
